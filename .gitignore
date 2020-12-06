@@ -1,4 +1,4 @@
 *.env
-
+secret_key.txt
 #Database
 *.sqlite3
