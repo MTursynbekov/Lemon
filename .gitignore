@@ -1,4 +1,6 @@
 *.env
 secret_key.txt
+/venv
+__pycache__
 #Database
 *.sqlite3
