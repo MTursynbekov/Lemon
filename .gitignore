@@ -1,4 +1,4 @@
-/secret_key.py
+*.env
 
 #Database
 *.sqlite3
